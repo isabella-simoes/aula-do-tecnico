@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#menu{
+    display: flex;
+    list-style: none;
+    padding: 0;
+    background-color: black;
+    justify-content: space-ar;
+}
+
+#menu li{
+    display: inline;
+}
+
+#menu li a{
+    color: white;
+    padding: 20px;
+    display: inline-block;
+    text-decoration: none;
+}
+
+#menu li a:hover{
+    background-color: grey;   
+}
+ 
+#letra{
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
